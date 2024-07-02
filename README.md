@@ -1,4 +1,4 @@
 # dhruv
 This is my first repository.
 <br>
-Author - Dhruv Lodhari
+Author - Dhruv (Godhaniya college)
